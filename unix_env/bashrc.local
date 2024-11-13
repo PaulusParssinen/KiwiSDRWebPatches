@@ -1,6 +1,0 @@
-export PROJ=~/KiwiSDR
-#export PATH=$PROJ:$PATH
-
-if [ -f ~/.bashrc.local.common ]; then
-  . ~/.bashrc.local.common
-fi
